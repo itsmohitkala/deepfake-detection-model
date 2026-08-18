@@ -57,7 +57,6 @@ packaging==24.1
 pandas==2.2.2
 pandocfilters==1.5.1
 parso==0.8.4
-pathtools==0.1.2
 pickleshare==0.7.5
 Pillow==10.3.0
 prometheus-client==0.20.0
